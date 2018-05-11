@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'GothaProBla';
+    src: url('../fonts/GothaProBla.eot');
+    src: url('../fonts/GothaProBla.eot') format('embedded-opentype'),
+         url('../fonts/GothaProBla.woff2') format('woff2'),
+         url('../fonts/GothaProBla.woff') format('woff'),
+         url('../fonts/GothaProBla.ttf') format('truetype'),
+         url('../fonts/GothaProBla.svg#GothaProBla') format('svg');
+}
+
+@font-face {
+			font-family: "GothamProRegular";
+			src: url("../font//GothamProRegular.eot");
+			src: url("../font/GothamProRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/GothamProRegular.woff") format("woff"),
+			url("../fonts/GothamProRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}
